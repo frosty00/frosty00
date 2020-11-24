@@ -2,6 +2,12 @@ Third year L&S Computer Science student at Berkeley.
 
 I'm taking a gap year cause of coronavirus 😷😷😷
 
+Studying Electrical Engineering at Imperial College London during 2020-21 💾
+
+carlo.revelli20@imperial.ac.uk
+
+
+
 <a href="https://github.com/ccxt/ccxt">
     <img style="float: right;" src="https://github-readme-stats.vercel.app/api/pin/?username=ccxt&repo=ccxt" />
 </a>
