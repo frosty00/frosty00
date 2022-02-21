@@ -9,6 +9,6 @@ Third year L&S Computer Science student at Berkeley.
 
 Currently studying:
 
-CS 161: https://cs161.org
+CS 162: https://cs162.org
 
-EECS 16b: https://eecs16b.org
+CS 186: https://cs186berkeley.net
