@@ -1,4 +1,4 @@
-Third year L&S Computer Science student at Berkeley. 
+Senior L&S Computer Science student at Berkeley. 
 
 <a href="https://github.com/ccxt/ccxt">
     <img style="float: right;" src="https://github-readme-stats.vercel.app/api/pin/?username=ccxt&repo=ccxt" />
