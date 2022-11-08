@@ -4,9 +4,9 @@ Senior L&S Computer Science student at Berkeley.
 
 Currently studying:
 
-[CS 170](https://cs170.org)
+* [CS 170](https://cs170.org)
 
-[CS 169 \*](https://www2.eecs.berkeley.edu/Courses/CS169/)
+* [CS 169 \*](https://www2.eecs.berkeley.edu/Courses/CS169/)
 
 ---
 
