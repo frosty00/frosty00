@@ -11,20 +11,20 @@ Currently studying:
 
 [CS 170](https://cs170.org)
 
-[CS 169*](https://www2.eecs.berkeley.edu/Courses/CS169/)
+[CS 169 \*](https://www2.eecs.berkeley.edu/Courses/CS169/)
 
 Classes taken:
 
-[CS 161*](https://cs161.org)
+* [CS 161 \*](https://cs161.org)
 
-[CS 162*](https://cs162.org)
+* [CS 162 \*](https://cs162.org)
 
-[CS 186](https://cs186berkeley.net)
+* [CS 186](https://cs186berkeley.net)
 
-[CS 70](https://eecs70.org)
+* [CS 70](https://eecs70.org)
 
-[CS 61C](https://cs61c.org/fa22)
+* [CS 61C](https://cs61c.org/fa22)
 
-* favourite classes
+\* favourite classes
 
 Graduating in May 2023. Currently working full time as a lead software developer for CCXT
