@@ -1,4 +1,4 @@
-Senior L&S Computer Science student at Berkeley. 
+Senior L&S Computer Science student at Berkeley. Graduating in May 2023. Completed all CS requirements fall 22. Currently working full time as a lead software developer for CCXT
 
 ---
 
@@ -25,8 +25,6 @@ Classes taken:
 * [EECS 16B](https://eecs16b.org)
 
 \* favourite classes
-
-Graduating in May 2023. Currently working full time as a lead software developer for CCXT
 
 ---
 
