@@ -2,15 +2,13 @@ Senior L&S Computer Science student at Berkeley. Graduated in May 2023
 
 ---
 
-#### Classes taken:
+#### Classes taken include
 
-* [CS 169 \*](https://www2.eecs.berkeley.edu/Courses/CS169/)
+* [CS 169](https://www2.eecs.berkeley.edu/Courses/CS169/)
 
-* [CS 161 \*](https://cs161.org)
+* [CS 161](https://cs161.org)
 
-* [CS 162 \*](https://cs162.org)
-
-* [CS 61C \*](https://cs61c.org/fa22)
+* [CS 162](https://cs162.org)
 
 ---
 
