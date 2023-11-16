@@ -1,4 +1,4 @@
-Senior L&S Computer Science student at Berkeley. Graduated in May 2023
+Graduated Computer Science at Berkeley
 
 ---
 
